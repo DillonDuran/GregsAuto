@@ -1,28 +1,45 @@
 # GregsAuto
 
-Vehicle Builder
-Table of Contents
-Description
+    ## Description
 
-Installation
+- GregsAuto
+- A system to help manage Gregs vehicle inventory
+- Run npm install
 
-Contributors
+## Table of Contents
 
-Tests
+- [Description](#description)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Tests](#Tests)
+- [Questions](Questions)
 
-Questions
+## License
 
-Description
-A utility to manage vehicle inventory.
+- ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)(https://opensource.org/licenses/MIT)
 
-Installation
-Run npm install
+Refer to [https://choosealicense.com/](https://choosealicense.com/).
 
-Usage
-Run npm start
+## Installation
 
-Contributors
-Christian Walters
+To install this application, please follow the steps below:
 
-Tests
-Run npm test
+- npm install
+
+## Usage
+
+- Run npm start
+
+## Tests
+
+- Run npm test
+
+## Questions
+
+If you have any questions, you can contact me at [DillonDuran](https://github.com/DillonDuran/).
+
+## Contribution
+
+- N/A
+
+The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
